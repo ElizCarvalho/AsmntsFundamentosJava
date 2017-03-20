@@ -1,0 +1,9 @@
+################################################
+*** Bem Vindo ao SGV SkyNet - Modulo Cliente ***
+Menu de Opcoes:
+1 - Consultar dados do cliente.
+2 - Consultar canais do plano.
+3 - Consultar programas de um canal.
+4 - Adquirir canal.
+5 - Sair.
+Digite a opcao desejada: 
